@@ -16,7 +16,7 @@ iniciar_trivia = True
 Intentos = 0
 
 
-print (GREEN+"¡BIENVENIDO A LA TRIVIA LIBRERA!"+RESET)
+print (GREEN+"¡BIENVENID@ A LA TRIVIA LIBRERA!"+RESET)
 print (YELLOW+"---------------------------------\n"+RESET)
 time.sleep(2)
 
